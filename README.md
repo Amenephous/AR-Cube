@@ -26,14 +26,14 @@ This code works on python version 4.6.0.66. To use it please run below mentioned
 ```pip
   pip install opencv-contrib-python==4.6.0.66
 ```
+## Visualization
 
-## Directory Structure
+Below are the AR cubes drawn on the ARuco codes. 
+![AR4_cube](https://github.com/Amenephous/AR-Cube/assets/48127920/0a50453c-17be-49dd-804d-43543de776cc)
+![AR5_cube](https://github.com/Amenephous/AR-Cube/assets/48127920/84004427-8c8f-4b57-a875-4cc153984b98)
+![AR6_cube](https://github.com/Amenephous/AR-Cube/assets/48127920/1d5427ba-15e7-4e1e-9ce3-8d8aabe71fdf)
 
-- `src/`: Contains source code for the AR cube application.
-- `data/`: Includes sample ARuco codes and camera calibration matrix.
-- `docs/`: Documentation related to the project.
-- `LICENSE`: License information for the project.
-- `README.md`: This file.
+
 
 ## Limitations
 - This is not real time. Although can be made into one.
