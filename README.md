@@ -17,7 +17,7 @@ Before running the application, ensure you have the following installed:
 - OpenCV 
 - Numpy
 
-Along with this, you need to know the camera calibration matrix. It can be found here: [Camera Calibration Repository](https://github.com/Amenephous/Camera_calibration/tree/main)
+Along with this, you need to know the camera calibration matrix. It can be found using the mentioned repository: [Camera Calibration Repository](https://github.com/Amenephous/Camera_calibration/tree/main)
 
   
 ## Setup
