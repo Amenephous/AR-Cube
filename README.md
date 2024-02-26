@@ -17,7 +17,7 @@ Before running the application, ensure you have the following installed:
 - OpenCV 
 - Numpy
 
-Along with this, 
+Along with this, you need to know the camera calibration matrix. It can be found here: 
   
 ## Setup
 
@@ -38,7 +38,7 @@ Below are the AR cubes drawn on the ARuco codes.
 
 ## Limitations
 - This is not real time. Although can be made into one.
-- Camera calibration matrix is manually added therefore the code will run only for the specific camera in the said picture. Could be altered in a way where calibration matrix is found automatically. Refer the repositry mentioned here to find the calibration matrix:
+- Camera calibration matrix is manually added therefore the code will run only for the specific camera in the said picture. Could be altered in a way where calibration matrix is found automatically.
 
 ## License
 
