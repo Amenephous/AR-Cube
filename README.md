@@ -30,11 +30,7 @@ This code works on python version 4.6.0.66. To use it please run below mentioned
 ## Visualization
 
 Below are the AR cubes drawn on the ARuco codes. 
-![Q4_Solution_AR4](https://github.com/Amenephous/AR-Cube/assets/48127920/0a50453c-17be-49dd-804d-43543de776cc)
-![Q4_Solution_AR5](https://github.com/Amenephous/AR-Cube/assets/48127920/84004427-8c8f-4b57-a875-4cc153984b98)
-![Q4_Solution_AR6](https://github.com/Amenephous/AR-Cube/assets/48127920/1d5427ba-15e7-4e1e-9ce3-8d8aabe71fdf)
-
-
+![AR_Cube_gif](https://github.com/Amenephous/AR-Cube/assets/48127920/db533a2f-fb55-4ae6-99ee-9cc577ae6fcf)
 
 
 ## Limitations
