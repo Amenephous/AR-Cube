@@ -29,7 +29,7 @@ This code works on python version 4.6.0.66. To use it please run below mentioned
 ```
 ## Visualization
 
-Below are the AR cubes drawn on the ARuco codes. 
+Below is the AR cube drawn on the detected ARuco code. 
 ![AR_Cube_gif](https://github.com/Amenephous/AR-Cube/assets/48127920/db533a2f-fb55-4ae6-99ee-9cc577ae6fcf)
 
 
